@@ -5,6 +5,8 @@ Link to the video series: https://www.youtube.com/watch?v=-sdOd5fcPz4&list=PLGRD
 ## Assignment
 This application is the backend side of the Ful Stack React Hooks + Spring Boot Full CRUD, which is an Employee Management Application using Spring Boot and Hibernate.
 
+Frontend repo:  https://github.com/Igor-GF/Demo-SpringBoot-React-Frontend
+ 
 ## Built With
 [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/)
 
